@@ -1,0 +1,22 @@
+{
+  "BPData": [
+    {
+      "id": 1,
+      "day": "1st Feb",
+      "systolic": "120",
+      "diastolic": "80"
+    },
+    {
+      "id": 2,
+      "day": "2nd Feb",
+      "systolic": "142",
+      "diastolic": "78"
+    },
+    {
+      "id": 3,
+      "day": "3rd Feb",
+      "systolic": "150",
+      "diastolic": "90"
+    }
+  ]
+}
